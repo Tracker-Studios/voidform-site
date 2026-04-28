@@ -1,4 +1,4 @@
-# voidform-site
+# Voidform - Landing Page
 Official landing page for Voidform, hosted by GitHub Pages
 
 ## Live Site
